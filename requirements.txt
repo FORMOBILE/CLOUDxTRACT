@@ -1,0 +1,6 @@
+requests
+pytz
+xmltodict
+pysimplegui
+iso8601
+nextcloud-api-wrapper
